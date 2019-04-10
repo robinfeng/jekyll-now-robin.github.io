@@ -1,6 +1,6 @@
 ---
 layout: post
-title: You're up and running!
+title: 你的第二个 Blog!
 ---
 
 接下来，您可以使用存储库根目录中的_config.yml文件更新您的站点名称，头像和其他选项（如下所示）.
